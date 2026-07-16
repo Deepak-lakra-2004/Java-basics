@@ -1,5 +1,5 @@
 import java.util.*;
-public class sumOfEvenAndOddIntegers{
+public class SumOfEvenAndOddNumbers{
   public static void main(String[] args) {
     Scanner sc= new Scanner(System.in);
     System.out.println("How many number you wnat to enter:");

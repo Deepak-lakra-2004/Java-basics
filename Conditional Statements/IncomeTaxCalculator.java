@@ -14,7 +14,7 @@ public class IncomeTaxCalculator{
         }
         else if(Income > 1000000){
             System.out.println("30% tax is deduct form your income");
-            System.out.println("incme after deduction 30% tax:" + (Income - (Income*.30f)));
+            System.out.println("income after deduction 30% tax:" + (Income - (Income*.30f)));
         }
         sc.close();
     }

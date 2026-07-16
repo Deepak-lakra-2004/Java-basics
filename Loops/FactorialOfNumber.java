@@ -1,5 +1,5 @@
 import java.util.*;
-public class factorialOfNumber{
+public class FactorialOfNumber{
   public static void main(String[] args) {
     try (Scanner sc= new Scanner(System.in)){
     System.out.println("Enter the value of n:");

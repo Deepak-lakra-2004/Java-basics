@@ -1,4 +1,4 @@
-public class continueStatementQuestion{
+public class ContinueStatementExample{
     public static void main(String[] args) {
         
         for(int i =0; i<=5; i++){

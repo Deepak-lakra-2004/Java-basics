@@ -1,5 +1,5 @@
 import java.util.*;
-public class GSTadding {
+public class GSTCalculator {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the price of pencil:");
